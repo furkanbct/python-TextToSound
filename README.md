@@ -1,4 +1,4 @@
-# python-sound-of-text
+# Python Text To Sound
 
 Requirements:
   Python3,
